@@ -1,13 +1,13 @@
 # Site settings
-title: Awang
-SEOTitle: 阿望的窝 | Awang
+title: zhangwenling
+SEOTitle: zhangwenling的博客 | ZWL's Blog
 header-img: img/post-bg-desk.jpg
-email: 2844081036@qq.com
+email: 2570104770@qq.com
 description: "执着于前端的蜉蝣，提供原创前端基础教程，总结前端领域的坑，予人方便，予己方便."
-keyword: "阿望，Awang，前端，H5，Vue，移动端，JS，HTML，CSS，互联网，入门级教程，编程，前端领域"
-url: "https://awang0608.github.io/"          # your host, for absolute URL
+keyword: "前端，H5，Vue，移动端，JS，HTML，CSS，互联网，入门级教程，编程，前端领域"
+url: "https://zwl098.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/awang0608/awang0608.github.com.git" # you code repository
+github_repo: "https://github.com/zwl098/zwl098.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,14 +18,14 @@ sidebar-avatar: /img/awang.jpg      # use absolute URL, seeing it's used in both
 
 # SNS settings
 RSS: false
-# weibo_username:     awang
-# zhihu_username:     awang
-github_username: awang0608
-cnblog_username: moonLightcy
-# facebook_username:  awang.chen.7
-jianshu_username:   3157ee90cf75
-juejin_username: 5dd4ecb6f265da47c94fbbd2
-#twitter_username:   awang
+# weibo_username:     
+# zhihu_username:     
+github_username: zwl098
+# cnblog_username: 
+# facebook_username:  
+jianshu_username:   
+juejin_username: 飞飞公猪
+#twitter_username:   
 
 
 
@@ -64,11 +64,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 15ba47af24ac403a9475                            #生成的clientID
-  clientSecret: 44e99e239e307115485b9da5f035b3268d6772d1    #生成的clientSecret
-  repo: awang0608.github.io    #仓库名称
-  owner: awang0608    #github用户名
-  admin: awang0608
+  clientID: 2045b8902a97b3eaa044                            #生成的clientID
+  clientSecret: e107722574c85c7a24aa605ef934fc0356e2a6a1    #生成的clientSecret
+  repo: zwl098.github.io   #仓库名称
+  owner: zwl098    #github用户名
+  admin: zwl098
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -76,10 +76,10 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 0070d40a1f6efbc05ae10a9a3729a23b
+# ba_track_id: 
 
 # Google Analytics
-# ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+ga_track_id: 'G-14P87EGZKD'            # Format: UA-xxxxxx-xx
 # ga_domain: auto                         # 默认的是 auto, 可填写自定义域名
 
 
